@@ -1,2 +1,2 @@
-# Swiftbot_Test1
+# Python_prac1
 For testing the methods of Swiftbot API
