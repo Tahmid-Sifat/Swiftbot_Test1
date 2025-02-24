@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def sort_numbers_and_names(numbers, names):
     # Sort the numbers list in ascending order
     sorted_numbers = sorted(numbers)
@@ -23,3 +24,4 @@ print("Sorted Numbers:", sorted_numbers)
 print("Sum of Numbers:", total_sum)
 print("Sorted Names:", sorted_names)
 
+ 
